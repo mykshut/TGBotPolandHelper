@@ -1,4 +1,4 @@
 config = {
         'name' : 'PolandHelperBot',
-        'token' : '1058260597:AAEdl4diuEouUF8c3c3qgGClkbkDq2eKzeM'
+        'token' : '2071045701:AAFminFT9Q4ekEpTE2Aeo1-ZbU0nOFQ8ZAg'
 }
